@@ -2,8 +2,14 @@
 <h1 align="center">Hi 👋, I'm Imesh Dinil</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=graslydias&label=Profile%20views&color=0e75b6&style=flat" alt="graslydias" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=graslydias&label=Profile%20views&color=0e75b6&style=flat" alt="graslydias" /> </p>
 
+
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 - 🔭 I’m currently working on [agriyum](https://www.linkedin.com/in/grasly-dias/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAADpQssABAFlWORBjNGJS-gSjHb5aaRZ0bGc)
 
 - 🌱 I’m currently learning **Spring Boot, , VueJS, Angular**
@@ -17,6 +23,16 @@
 - 📫 How to reach me **graslydias@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
 
 <hr/>
 <!--h1 without bottom border-->
