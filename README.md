@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-
+<hr/>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -31,7 +31,7 @@
     <img src="https://skillicons.dev/icons?i=git,unreal,bootstrap,blender,photoshop,css,discord,figma,github,html,java,js,spring,linux,mysql,nextjs,nodejs,postman,arduino,react,sketchup,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
-
+<hr/>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -48,8 +48,8 @@
 <a href="https://discord.gg/grasly.dias" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
 </p>
----
+<hr/>
+
 
 <h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/graslydiass"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="graslydiass" /></a></p><br><br>
----
+<p align="center"><a href="https://www.buymeacoffee.com/graslydiass"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
